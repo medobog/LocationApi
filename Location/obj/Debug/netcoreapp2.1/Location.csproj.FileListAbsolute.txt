@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\repos\Location\Location\bin\Debug\netcoreapp2.1\Location.deps.json
+C:\Users\Korisnik\source\repos\Location\Location\bin\Debug\netcoreapp2.1\Location.runtimeconfig.json
+C:\Users\Korisnik\source\repos\Location\Location\bin\Debug\netcoreapp2.1\Location.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\Location\Location\bin\Debug\netcoreapp2.1\Location.dll
+C:\Users\Korisnik\source\repos\Location\Location\bin\Debug\netcoreapp2.1\Location.pdb
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.RazorAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.RazorAssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.RazorTargetAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.dll
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.pdb
+C:\Users\Korisnik\source\repos\Location\Location\obj\Debug\netcoreapp2.1\Location.csprojAssemblyReference.cache
